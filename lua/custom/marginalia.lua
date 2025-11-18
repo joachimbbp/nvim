@@ -55,6 +55,8 @@ return {
         INSTRUCTIONS = { icon = '󱓷', color = 'test', alt = {} },
         --WIP: Work in Progress
         WIP = { icon = '', color = 'warning', alt = { 'WORK IN PROGRESS' } },
+        -- BOOKMARK:
+        BOOKMARK = { icon = '󰃁', color = 'test', alt = { 'BREAK' } },
       },
     },
   },
